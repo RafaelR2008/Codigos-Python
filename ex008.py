@@ -1,0 +1,8 @@
+n = float(input('Digite um valor: '))
+print(f'Em quilômetros: {n/1000}')
+print(f'Em hectômetros: {n/100}')
+print(f'Em decâmetros: {n/10}')
+print(f'Em metros: {n}')
+print(f'Em decímetros: {n*10}')
+print(f'Em centímetros: {n*100}')
+print(f'Em milímetros: {n*1000}')
